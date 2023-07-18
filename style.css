@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.highlight-text{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+}
